@@ -1,3 +1,3 @@
 # application
 
-* ranking_search.py is simple tool for seo marketing.
+* ranking_search.py - simple tool for seo marketing.
